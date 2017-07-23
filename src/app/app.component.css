@@ -1,0 +1,29 @@
+#leftBit, #rightBit{
+  display: inline-block;
+  height: 100px;
+  width: 323px;
+  text-align: center;
+  vertical-align: top;
+}
+form{
+  display: block;
+  width: 1000px;
+  height: 200px;
+  margin: 0 auto;
+}
+fieldset{
+  display: block;
+  width: 650px;
+  height: 150px;
+  margin: 0 auto;
+}
+button{
+  margin-top: 40px;
+  display: block;
+  width: 298px;
+}
+label, input{
+  margin-top: 20px;
+  display: inline-block;
+  width: 145px;
+}
